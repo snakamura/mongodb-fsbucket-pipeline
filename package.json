@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
